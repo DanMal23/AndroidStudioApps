@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnClick"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F0F8FF"
+        android:onClick="onOpen"
+        android:text="Ordtak - del 1" />
+
+    <Button
+        android:id="@+id/btnClick2"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F5F5DC"
+        android:onClick="onOpen2"
+        android:text="Ordtak - del 2" />
+
+    <Button
+        android:id="@+id/btnClick3"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F7E7CE"
+        android:onClick="onOpen3"
+        android:text="Ordtak - del 3" />
+
+    <Button
+        android:id="@+id/btnClick4"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b5a397"
+        android:onClick="onOpen4"
+        android:text="Sitater om egoisme" />
+
+    <Button
+        android:id="@+id/btnClick5"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#98817B"
+        android:onClick="onOpen5"
+        android:text="Sitater om erfaring" />
+
+    <Button
+        android:id="@+id/btnClick6"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#E5AA70"
+        android:onClick="onOpen6"
+        android:text="Sitater om karakter" />
+
+    <Button
+        android:id="@+id/btnClick7"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#738678"
+        android:onClick="onOpen7"
+        android:text="Sitater om kunnskap" />
+
+    <Button
+        android:id="@+id/btnClick8"
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A3C1AD"
+        android:onClick="onOpen8"
+        android:text="Sitater om forståelse" />
+
+</LinearLayout>

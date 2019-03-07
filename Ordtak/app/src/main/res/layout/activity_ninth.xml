@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NinthActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="En god forenkling viser dyp forståelse. \n Forakt lurer der forståelse mangler. \n Forståelse av hva som er mulig og umulig, er det som skiller helten fra eventyreren. \n Forståelse er ikke annet enn summen av misforståelser. \n Forståelse er ofte et forspill til tilgivelse, men allikevel er det ikke riktig at «å forstå er å tilgi». Vi tilgir ofte det vi ikke forstår (fordi vi ikke vet hva annet vi kan gjøre), og forstår det vi ikke kan tilgi. \n Ikke tro det øynene dine forteller deg. Alt de viser er begrensninger. Se med forståelse. \n Ingen lov eller forordning er mektigere enn forståelse. \n Krav om forståelse kveler forståelsen. \n De store ideene og den dype forståelsen fødes gjennom konsentrert sansning og tenkning. \n Forståelsen rekker ofte lengre enn forstanden. \n Hele livet er en stor misforståelse - alt er basert på misforståelser. \n Kritikk er en misforståelse: Vi må ikke lese for å forstå andre, men for å forstå oss selv.(Cioran) \n "
+        android:textSize="17dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

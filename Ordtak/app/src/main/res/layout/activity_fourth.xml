@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FourthActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bedre å eie enn å leie. \n Det alle eier, eier ingen. \n Nå skal du bare se, sa mannen, han stakk øynene ut på kjerringa. \n Får man ikke den man elsker, får man elske den man får. \n Range vegen vert ikkje rett om det er mange som går han.\n Etterpå er hvermann klok. \n Det er dyrt å være fattig. \n Høye fjell kaster lange skygger. \n Det er vondt å fly vingeløs. \n Jo flere forbud, dess flere forbrytelser. \n Forskjellige strenger gir den beste samklang. \n Om hundre år er allting glemt. \n Den som frir til penger, spør ikke om alderen. \n Folk gir heller til en rik enn låner til en fattig. \n Det er gull i grønne skoger."
+        android:textSize="20dp"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

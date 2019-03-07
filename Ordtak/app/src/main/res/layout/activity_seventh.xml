@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeventhActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Den som er uten karakter, er ikke et menneske, men en ting. \n Det skal karakterstyrke til for å selge elastikk i metervis. \n En mann med en fast og modig karakter, bør ikke engste seg særlig i vanskelige tider.(Cicero) \n Min slette karakter har velsignet meg med mange goder. \n Økonomisk uavhengighet er halve karakterstyrken. \n Et menneske uten karakter er som en blomst uten duft. \n Ingenting avslører et menneskes karakter mer enn hva det synes er morsomt.(Goethe) \n Karakter er skjebne. \n Målestokken for et menneskes sanne karakter er hva det ville gjøre dersom det visste at dets gjerninger aldri ville bli oppdaget. \n Karakter er resultatet av alle de små tingene du var for opptatt til å gjøre i går, men som du likevel gjorde. \n Hvis du vil lære en mann å kjenne, studer hvordan han behandler katter. \n Nesten alle kan tåle motgang, men vil du prøve en manns karakter, så gi ham makt. \nDet skal mer ryggrad til å bære gode dager enn onde. \n Penger forderver kanskje karakteren, men mangel på penger gjør den i hvert fall ikke bedre. \n Ethvert menneskes skjebne formes av dets karakter. \n Et talent formes i det stille, en karakter i verdens strøm. \n "
+        android:textSize="16dp"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

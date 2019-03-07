@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FifthActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Egoisme er ikke å leve som man selv ønsker å leve. Det er å be andre leve som man selv ønsker å leve.(O. Wild)\n En egoist er en person med dårlig smak, mer opptatt av seg selv enn av meg. (A.Bierce) \n En god ting med egosentrikere er at de ikke farer med sladder. (L. Harper \n Kjærlighet er egoismens høyeste trinn. Vi elsker ikke våre partnere, men deres evne til å elske oss. (G. Laub) \n Det fins to typer egoister: De som innrømmer det, og resten av oss. \n Egoisme er evnen til å se noe i seg selv som andre ikke kan få øye på. \n Det 'beste' ved egoister er at de aldri snakker dårlig om andre. De snakker nemlig aldri om andre. \n ...de svært gamle er de mest egoistiske. \n Ein skal aldri tru at rause menneske også er gode. Det er der ein finn dei største egosistane."
+        android:textSize="20dp"
+
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

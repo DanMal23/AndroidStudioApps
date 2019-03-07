@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SixthActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Det er ikke nok å gjøre seg erfaringer, du må huske dem også. \n Kampen mellom forskjellige livssyn er en kamp mellom hva slags erfaringer folk har. (M. Grosso) \n Man lærer så lenge man lever. Ellers lever man ikke lenge. (R.Heinlein) \n Visdom er erfaringens datter. (da Vinci) \n All erfaring har nok dessverre ikke gjort meg klokere, men jeg er definitivt forvirret på et høyere nivå. \n God dømmekraft kommer av erfaring. Erfaring kommer av dårlig dømmekraft.\n Man tenker med det livet man har levd. \n Erfaring er egentlig den visdom som gjør oss i stand til å gjenkjenne våre tabber som fordums, ubehagelige bekjentskaper. \n Et gram erfaring er verdt et tonn teori.\n Du trenger en del erfaring, men vær klar over at det koster noe. \n Erfaring er en god skole. Men gebyrene er høye. \n Erfaring er ikke hva som hender oss, men hva vi gjør med det som hender oss. \n Erfaring lar deg gjenkjenne en feil neste gang du gjør den.\n Ingen mennesker forstår helt - annet enn det de selv har opplevd. \n Erfaring kan bare brukes til å plage andre med. \n Brent barn vil stadig bli brent helt til det mestrer ilden. \n En torn erfaring er verdt et helt kratt av advarsler. \n Et menneske som er så kjedelig at det lærer bare av egen erfaring, er for kjedelig til å lære noe viktig av erfaring. \n Erfaring er det du får på utkikk etter noe annet. \n Ingen vet prisen før alt er betalt. \n
+Uerfarenhet er det som får en ung mann til å gjøre det eldre menn sier er umulig. \n Jeg er en del av alt det jeg har møtt.\n Erfaring er uten sammenligning den verste læremester - den gir deg prøven før du har lest pensum. \n Personlig erfaring er en ond og begrenset sirkel. \n Erfaring er bare det navnet alle gir sine feiltrinn. \n Det å eldes er rolig å dreie sine erfaringer rundt i lyset og betrakte selv de smerteligste uten frykt. For omsider vet en at de ikke kommer til å gjenta seg.\n{eng. 'The fire is calmly turning its experiences around in the light and considering even the most painful without fear. For once, one knows that they will not repeat.'} \n Den ene dagen er den andres lærer. \n Et menneskets karakter bestemmes mer av de erfaringer det mangler enn av dem det har hatt."
+        android:textSize="12dp"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

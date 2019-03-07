@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThirdActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="En liten dans er snart snudd. \n Man fanger ikke fisk med tørre fingre. \n Myke senger gir late drenger.\n Når solen daler i vest, arbeider den late best. \n Han slipper å ro som lar seg drive med strømmen. \n Et lite, men utsøkt selskap, sa mannen, han drakk alene.\n Den som er slått til toskilling, blir aldri en daler.\n Den som lite frister, lite vet.\n Den som vet lite, har ikke mye å si.\n En narr blir to, to narrer blir ti.\n Nå skal vi se! sa den blinde til den døve. \n Null pluss null er null - tull pluss tull er tull.\n Tankeløst hode får lettest sove.\n Et egg er et egg, sa gutten, han tok det største."
+        android:textSize="20dp"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EightActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sank de små dråper av kunnskap du kan få, og betrakt dem som en stor skatt. \n Jeg vet ikke særlig mye, men det jeg vet, vet jeg bedre enn noen, og jeg vil ikke krangle om det. \n Han skjulte sin dumhet bak en mur av kunnskaper. \n Kunnskap er det beste vernet mot angst. Man blir aggressiv av å være redd. \n Det finnes ingen kunnskap som ikke er verdifull. \n Kunnskap må forbedres, utfordres, og økes hele tiden, ellers forsvinner den. \n For å kunne fordøye kunnskaper må man motta dem med lyst. \n Man sier at kunnskap er makt, skjønt man ofte kan fristes til å tvile på det. Men det er sikkert at den er rikdom. \n Kunnskap uten fornuft er dobbelt dårskap. \n Å sove med kunnskap, er bedre enn å be med uvitenhet. \n Kunnskap kan være to ting; Det vi vet og det at vi vet hvor vi kan lære det vi ikke vet. \n Kunnskap er makt bare hvis du vet hvilke fakta du ikke behøver å ta hensyn til. \n Uten kunnskap er livet bare en skygge av døden \n Det finnes ikke noe ønske mer naturlig enn ønsket om å vite. \n Påtvungen kunnskap blir aldri sjelens varige eie. \n Kunnskap er næring for sjelen. \n Det er bedre å sitte inne med unyttig viten enn ikke å vite noenting. \n Jeg forsket døgnet rundt, om så det gjaldt. Vel vet jeg meget, men jeg vil vite alt.(Goethe)"
+        android:textSize="14dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>

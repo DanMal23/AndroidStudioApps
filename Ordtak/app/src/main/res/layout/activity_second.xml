@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kast ikke perler for svin. \n Se lys i enden av tunnelen. \n Det er aldri så galt at det ikke er godt for noe! \n Én fugl i hånden er bedre enn ti på taket.'\n Smuler er også brød.\n Bak skyene er himmelen alltid blå.\n Alder krever ære.\n De gamle bukkene har de stiveste hornene.\n Bedre med trøtte armer enn tomme tarmer.\n Slit og møde gir klær og føde.\n Det er ille å bare bake og aldri smake.\n Det en selv baker, er det som best smaker.\n Ikke lett å være både pott og panne.\n Det beste skal man gjemme til slutt.\n Bøker gjør folk både kloke og gale.\n En god dag kommer aldri for sent. \n Skinnet er alltid nærmere enn skjorta. \n Sneglen tror at kålen er plantet for hennes skyld."
+        android:textSize="20dp"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"/>
+
+</LinearLayout>
